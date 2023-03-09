@@ -1,1 +1,1 @@
-Bu repoda tamamlanmış ev tapşırıqları saxlanılır.
+This repo stores completed homework assignments.
