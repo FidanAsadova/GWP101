@@ -1,5 +1,4 @@
 # GWP101
-second homework
 + Git init yazdim git bash da.
 + Git clone deyib repo linki paste etdim.
 + Mkdir emri ile gitcommands folder yaratdim.
